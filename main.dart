@@ -86,6 +86,7 @@
 //   print("Result is $result");
 // }
 
+//# execute fucntion
 // int add(int x, int y) => x + y;
 // int sub(int x, int y) => x + y;
 
@@ -112,6 +113,7 @@
 //   print("Result is $result");
 // }
 
+//# closer
 // calc(int b) {
 //   int c = 1;
 
