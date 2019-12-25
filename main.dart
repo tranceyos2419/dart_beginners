@@ -19,6 +19,7 @@ void main() {
 }
 
 class Complex {
+  //! To use variables as provite ones, the class has to be importated from another file as a library
   num _real;
   num _imaginary;
 
